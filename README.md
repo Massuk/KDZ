@@ -1,2 +1,2 @@
-# KDZ-Webpage
+# KDZ
 Página web del bot KDZ
